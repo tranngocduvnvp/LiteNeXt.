@@ -28,9 +28,20 @@ Bowls, GlaS, ISIC2018, PH2, and Sunnybrook data show promising results compared 
 <p align="center">
 	<img , src="https://github.com/user-attachments/assets/9678daeb-72be-48e9-bcd7-485ca3ab793a"> <br />
 	<em>
-		Figure 1: Illustration of the proposed FCBFormer architecture
+		Figure 1: General architecture of the proposed LiteNeXt model. (a) Overview of the training pipeline,
+(b) Overview of the inference phase, (c) Architecture of the CLG block, (d) Architecture of the Residual
+Block-abbreviated as RB block, (e) Architecture of the Head Prediction
 	</em>
 </p>
+
+<p align="center">
+	<img , src="https://github.com/user-attachments/assets/b7b8d727-4483-4666-a55e-8a53aff3e457"> <br />
+	<em>
+		Figure 2: Overview of the weighting process for each object partition, wb is the background weight, wo
+is the object weight, and wm is the marginal weight
+	</em>
+</p>
+
 
 # 3. Results 
 ![image](https://github.com/user-attachments/assets/fb149108-9d0a-4a2e-bfaf-68f70f601772)
