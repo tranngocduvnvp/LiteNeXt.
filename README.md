@@ -53,22 +53,19 @@ is the object weight, and wm is the marginal weight
 </p>
 
 <p align="center">
-	<img , src="https://github.com/user-attachments/assets/aaaae6f5-2abb-4b61-b761-018c394d8651
-"> <br />
+	<img , src="https://github.com/user-attachments/assets/aaaae6f5-2abb-4b61-b761-018c394d8651"> <br />
 	<em>
 		Figure 4: Visualization results of the top5 best predictions on the GlaS dataset
 	</em>
 </p>
 <p align="center">
-	<img , src="https://github.com/user-attachments/assets/f709b01d-8854-4e38-b9d2-0993c743ab79
-"> <br />
+	<img , src="https://github.com/user-attachments/assets/f709b01d-8854-4e38-b9d2-0993c743ab79"> <br />
 	<em>
 		Figure 5: Visualization results of the top5 best predictions on the ISIC2018 dataset
 	</em>
 </p>
 <p align="center">
-	<img , src="https://github.com/user-attachments/assets/1e36a5fb-7aa3-4dcf-855c-e17cc854119a
-"> <br />
+	<img , src="https://github.com/user-attachments/assets/1e36a5fb-7aa3-4dcf-855c-e17cc854119a"> <br />
 	<em>
 		Figure 6: Visualization results of the top5 best predictions on the PH2 dataset
 	</em>
