@@ -45,8 +45,7 @@ is the object weight, and wm is the marginal weight
 
 # 3. Qualitative results 
 <p align="center">
-	<img , src="https://github.com/user-attachments/assets/8b384b91-f366-4699-9365-caa84aef81ad
-"> <br />
+	<img , src="https://github.com/user-attachments/assets/8b384b91-f366-4699-9365-caa84aef81ad"> <br />
 	<em>
 		Figure 3: Visualization results of the top5 best predictions on the Bowl2018 dataset
 	</em>
