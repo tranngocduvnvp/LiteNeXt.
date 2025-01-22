@@ -1,6 +1,6 @@
 # LiteNeXt
 Official code repository for: LiteNeXt - A Novel Lightweight ConvMixer-based Model with Self-embedding
-Representation Parallel for Medical Image Segmentation (**Preprint submitted to Elsevier**)
+Representation Parallel for Medical Image Segmentation
 
 Links to the paper:
 + [arXiv](https://arxiv.org/pdf/2405.15779)
