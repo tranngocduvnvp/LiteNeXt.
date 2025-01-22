@@ -45,26 +45,30 @@ is the object weight, and wm is the marginal weight
 
 # 3. Qualitative results 
 <p align="center">
-	<img , src="https://github.com/user-attachments/assets/fb149108-9d0a-4a2e-bfaf-68f70f601772"> <br />
+	<img , src="https://github.com/user-attachments/assets/8b384b91-f366-4699-9365-caa84aef81ad
+"> <br />
 	<em>
 		Figure 3: Visualization results of the top5 best predictions on the Bowl2018 dataset
 	</em>
 </p>
 
 <p align="center">
-	<img , src="https://github.com/user-attachments/assets/708553a6-1c03-424a-ab45-58a96e944d57"> <br />
+	<img , src="https://github.com/user-attachments/assets/aaaae6f5-2abb-4b61-b761-018c394d8651
+"> <br />
 	<em>
 		Figure 4: Visualization results of the top5 best predictions on the GlaS dataset
 	</em>
 </p>
 <p align="center">
-	<img , src="https://github.com/user-attachments/assets/a526a3d5-28c3-4fcd-a1b9-dab2a2069e35"> <br />
+	<img , src="https://github.com/user-attachments/assets/f709b01d-8854-4e38-b9d2-0993c743ab79
+"> <br />
 	<em>
 		Figure 5: Visualization results of the top5 best predictions on the ISIC2018 dataset
 	</em>
 </p>
 <p align="center">
-	<img , src="https://github.com/user-attachments/assets/04327b13-4b92-4712-8923-222f317ef0d6"> <br />
+	<img , src="https://github.com/user-attachments/assets/1e36a5fb-7aa3-4dcf-855c-e17cc854119a
+"> <br />
 	<em>
 		Figure 6: Visualization results of the top5 best predictions on the PH2 dataset
 	</em>
