@@ -23,7 +23,14 @@ help augment the data in a self-learning manner. Experiments on public datasets 
 Bowls, GlaS, ISIC2018, PH2, and Sunnybrook data show promising results compared to other state-ofthe-art CNN-based and Transformer-based architectures.
 
 # 2. Architecture
-![image](https://github.com/user-attachments/assets/9678daeb-72be-48e9-bcd7-485ca3ab793a)
+
+
+<p align="center">
+	<img width=900, src="https://github.com/user-attachments/assets/9678daeb-72be-48e9-bcd7-485ca3ab793a"> <br />
+	<em>
+		Figure 1: Illustration of the proposed FCBFormer architecture
+	</em>
+</p>
 
 # 3. Results 
 ![image](https://github.com/user-attachments/assets/fb149108-9d0a-4a2e-bfaf-68f70f601772)
