@@ -4,6 +4,7 @@ Representation Parallel for Medical Image Segmentation
 
 Links to the paper:
 + [arXiv](https://arxiv.org/pdf/2405.15779)
++ Full Code in progress ...
 
 # 1. Abstract
 The emergence of deep learning techniques has advanced the image segmentation task, especially
@@ -26,7 +27,7 @@ Bowls, GlaS, ISIC2018, PH2, and Sunnybrook data show promising results compared 
 
 
 <p align="center">
-	<img , src="https://github.com/user-attachments/assets/9678daeb-72be-48e9-bcd7-485ca3ab793a"> <br />
+	<img , src="https://github.com/user-attachments/assets/8f4eb3d2-951d-41ca-8fdc-5c6567e3edd3"> <br />
 	<em>
 		Figure 1: General architecture of the proposed LiteNeXt model. (a) Overview of the training pipeline,
 (b) Overview of the inference phase, (c) Architecture of the CLG block, (d) Architecture of the Residual
@@ -35,39 +36,29 @@ Block-abbreviated as RB block, (e) Architecture of the Head Prediction
 </p>
 
 <p align="center">
+	<img , src="https://github.com/user-attachments/assets/4341d494-cc0a-46d5-acb2-64d1b0459360"> <br />
+	<em>
+		Figure 2: Overview architectures of (a) Our Proposed LGEMixer block, (b) LocalMixer block,
+(c) FarMixer block
+	</em>
+</p>
+
+<p align="center">
+	<img , src="https://github.com/user-attachments/assets/bad65495-5468-4252-b3ad-8f7652f6deb6"> <br />
+	<em>
+		Figure 3: Overview architectures of Head Projector, (a) Architecture of ProjectorT, Architecture of
+ProjectorS
+	</em>
+</p>
+
+<p align="center">
 	<img , src="https://github.com/user-attachments/assets/b7b8d727-4483-4666-a55e-8a53aff3e457"> <br />
 	<em>
-		Figure 2: Overview of the weighting process for each object partition, wb is the background weight, wo
+		Figure 3: Overview of the weighting process for each object partition, wb is the background weight, wo
 is the object weight, and wm is the marginal weight
 	</em>
 </p>
 
 
-# 3. Qualitative results 
-<p align="center">
-	<img , src="https://github.com/user-attachments/assets/8b384b91-f366-4699-9365-caa84aef81ad"> <br />
-	<em>
-		Figure 3: Visualization results of the top5 best predictions on the Bowl2018 dataset
-	</em>
-</p>
-
-<p align="center">
-	<img , src="https://github.com/user-attachments/assets/aaaae6f5-2abb-4b61-b761-018c394d8651"> <br />
-	<em>
-		Figure 4: Visualization results of the top5 best predictions on the GlaS dataset
-	</em>
-</p>
-<p align="center">
-	<img , src="https://github.com/user-attachments/assets/f709b01d-8854-4e38-b9d2-0993c743ab79"> <br />
-	<em>
-		Figure 5: Visualization results of the top5 best predictions on the ISIC2018 dataset
-	</em>
-</p>
-<p align="center">
-	<img , src="https://github.com/user-attachments/assets/1e36a5fb-7aa3-4dcf-855c-e17cc854119a"> <br />
-	<em>
-		Figure 6: Visualization results of the top5 best predictions on the PH2 dataset
-	</em>
-</p>
 
 
