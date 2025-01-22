@@ -1,4 +1,11 @@
-# Abstract
+# LiteNeXt
+Official code repository for: LiteNeXt - A Novel Lightweight ConvMixer-based Model with Self-embedding
+Representation Parallel for Medical Image Segmentation (**Preprint submitted to Elsevier**)
+
+Links to the paper:
++ [arXiv](https://arxiv.org/pdf/2405.15779)
+
+# 1. Abstract
 The emergence of deep learning techniques has advanced the image segmentation task, especially
 for medical images. Many neural network models have been introduced in the last decade bringing the
 automated segmentation accuracy close to manual segmentation. However, cutting-edge models like
@@ -15,4 +22,15 @@ background. Furthermore, we propose the Self-embedding Representation Parallel t
 help augment the data in a self-learning manner. Experiments on public datasets including Data Science
 Bowls, GlaS, ISIC2018, PH2, and Sunnybrook data show promising results compared to other state-ofthe-art CNN-based and Transformer-based architectures.
 
-Code will be released soon ...
+# 2. Architecture
+![image](https://github.com/user-attachments/assets/9678daeb-72be-48e9-bcd7-485ca3ab793a)
+
+# 3. Results 
+![image](https://github.com/user-attachments/assets/fb149108-9d0a-4a2e-bfaf-68f70f601772)
+![image](https://github.com/user-attachments/assets/708553a6-1c03-424a-ab45-58a96e944d57)
+![image](https://github.com/user-attachments/assets/a526a3d5-28c3-4fcd-a1b9-dab2a2069e35)
+![image](https://github.com/user-attachments/assets/04327b13-4b92-4712-8923-222f317ef0d6)
+
+
+
+
