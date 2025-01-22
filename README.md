@@ -59,6 +59,14 @@ is the object weight, and wm is the marginal weight
 	</em>
 </p>
 
-
+# Reference
+```
+@article{tran2024litenext,
+  title={LiteNeXt: A Novel Lightweight ConvMixer-based Model with Self-embedding Representation Parallel for Medical Image Segmentation},
+  author={Tran, Ngoc-Du and Tran, Thi-Thao and Nguyen, Quang-Huy and Vu, Manh-Hung and Pham, Van-Truong},
+  journal={arXiv preprint arXiv:2405.15779},
+  year={2024}
+}
+```
 
 
