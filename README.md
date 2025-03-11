@@ -3,7 +3,7 @@ Official code repository for: LiteNeXt - A Novel Lightweight ConvMixer-based Mod
 Representation Parallel for Medical Image Segmentation
 
 Links to the paper:
-+ [arXiv](https://arxiv.org/pdf/2405.15779)
++ [Biomedical Signal Processing and Control](https://www.sciencedirect.com/science/article/pii/S1746809425002848?via%3Dihub)
 + Full Code in progress ...
 
 # 1. Abstract
